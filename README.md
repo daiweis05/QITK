@@ -8,7 +8,7 @@ Author: Wei Li, liw5@uthscsa.edu
 
 Research Imaging Institute
 
-University of Texas Health Science Center
+University of Texas Health Science Center at San Antonio
 
 References:
 
