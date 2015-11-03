@@ -11,6 +11,7 @@ Research Imaging Institute
 University of Texas Health Science Center
 
 References:
+
 [1] W Li, B Wu, C Liu. Quantitative susceptibility mapping of human brain reflects spatial variation in tissue composition
 Neuroimage 55 (4), 1645-1656
 
