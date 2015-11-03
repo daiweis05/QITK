@@ -1,0 +1,14 @@
+pyrcc4 -py3 -o QITKV0p1_rc.py QITKV0p1.qrc
+python setup.py install
+
+
+$ conda create -n py33 python=3.3 anaconda
+
+Here python=3.3 and anaconda are package specifications, and it is the job of the SAT solver inside conda to find a consistent set of packages which satisfies these requirements. As the root environment uses Python 2, we had to specify the major version explicitly.
+
+After adding the binary directory of the newly created environment to the PATH environment variable, which may be done using
+
+$ activate py33
+
+
+pyuic4 test.ui -o test_ui.py

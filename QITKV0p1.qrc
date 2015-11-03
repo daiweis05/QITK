@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="Toolbar">
+    <file>resource/folder-open-128-000000.png</file>
+    <file>resource/zoom-in-128.png</file>
+    <file>resource/saveall.png</file>
+    <file>resource/flip.png</file>
+    <file>resource/flip1.png</file>
+    <file>resource/rot.png</file>
+    <file>resource/view.png</file>
+    <file>resource/floppy_disk-512.png</file>
+    <file>resource/zoom_out-512.png</file>
+    <file>resource/zoom-in-128.png</file>
+    <file>resource/folder-open-128-000000.png</file>
+    <file>resource/111.png</file>
+    <file>resource/222.png</file>
+    <file>resource/333.png</file>
+    <file>resource/444.png</file>
+    <file>resource/brightcontrast.png</file>
+    <file>resource/saveall1.png</file>
+  </qresource>
+</RCC>
