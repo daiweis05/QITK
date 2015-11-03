@@ -1,4 +1,4 @@
-# Quantitative Imaging Toolkit (QITK) 
+## Quantitative Imaging Toolkit (QITK) 
 
 The aim of this project is to develop a image analysis software for quantitative magnetic susceptibility MRI with convinient graphical interfaces written in python, pyQT, cython and C.
 
